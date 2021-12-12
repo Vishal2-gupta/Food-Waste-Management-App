@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FoodFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="For Donation"
+        android:textStyle="bold"
+        android:textColor="#101010"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        />
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="325dp"
+        android:id="@+id/b1"
+        android:src="@drawable/ii5"
+        android:textColor="#121212"
+        android:background="#FFF38B"
+        android:layout_marginTop="35dp"
+        ></ImageButton>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="For Receiver"
+        android:textStyle="bold"
+        android:textColor="#101010"
+        android:textAlignment="center"
+        android:layout_marginTop="365dp"
+        android:textSize="20sp"
+        />
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_height="325dp"
+        android:id="@+id/b2"
+        android:src="@drawable/ii4"
+        android:textColor="#121212"
+        android:background="#FFF38B"
+        android:layout_marginTop="410dp"
+        ></ImageButton>
+
+</FrameLayout>

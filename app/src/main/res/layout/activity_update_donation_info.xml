@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/iy"
+    tools:context=".UpdateDonationInfo">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Do Any Change To Info"
+        android:textColor="#121211"
+        android:textSize="32dp"
+        android:background="#21F1F1"
+
+        ></TextView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:text="Update Donation Info"
+            android:textAlignment="center"
+            android:textColor="#233333"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline" />
+
+        <EditText
+            android:id="@+id/editTextTask"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Restaurant Name" />
+
+        <EditText
+            android:id="@+id/editTextDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Restaurant Address" />
+
+        <EditText
+            android:id="@+id/editTextFinishBy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Food Details" />
+
+        <CheckBox
+            android:id="@+id/checkBoxFinished"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Mark as finished" />
+
+        <Button
+            android:id="@+id/button_update"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="#3EE645"
+            android:text="Update Info"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#234433" />
+
+
+        <Button
+            android:id="@+id/button_delete"
+            android:layout_width="200dp"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="#EC2626"
+            android:text="Delete"
+
+            android:textAllCaps="false"
+            android:textColor="#222222" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/iy"
+    tools:context=".AddDonationInfo">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New Donation"
+        android:textColor="#121211"
+        android:textSize="40dp"
+        android:textAlignment="center"
+        android:background="#21F1F1"></TextView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/editTextTask"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Restaurant Name And Place" />
+
+
+        <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextDesc"
+        android:clickable="true"
+        android:autoLink="map"
+        android:linksClickable="true"
+        android:hint="Current Location"></EditText>
+
+
+    <EditText
+            android:id="@+id/editTextFinishBy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Food Details" />
+
+        <Button
+            android:id="@+id/button_save"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:background="#1886DD"
+            android:text="Add"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#334433" />
+        <Button
+            android:id="@+id/b2"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:background="#1886DD"
+            android:text="Current Location"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="#334433" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

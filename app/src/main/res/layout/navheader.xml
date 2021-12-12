@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="#9B9BD5"
+    android:padding="16dp"
+    android:layout_marginTop="80dp"
+    android:gravity="bottom"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    >
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="100dp"
+        android:layout_marginRight="400dp"
+        android:src="@drawable/iui" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="70dp"
+        android:paddingTop="8dp"
+        android:text="No Dood Waste Donor"
+        android:textSize="20sp"
+        android:textColor="#0C0C0C"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"></TextView>
+</LinearLayout>
+

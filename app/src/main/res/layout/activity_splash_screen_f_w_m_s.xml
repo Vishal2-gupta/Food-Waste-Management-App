@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8BD0B"
+    tools:context=".SplashScreenFWMS">
+    <ImageView
+        android:id="@+id/logo_id"
+        android:layout_width="402dp"
+        android:layout_height="600dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/iq1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo_id"
+        android:layout_centerHorizontal="true"
+        android:text="Food Waste Management"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColorHighlight="#BF0EDD"
+        android:textColor="#DC0A0A"/>
+
+</RelativeLayout>

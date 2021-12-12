@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="No Food Waste">
+        <menu>
+            <item
+                android:title="Home"
+                android:id="@+id/h1"></item>
+            <item
+                android:title="Add task"
+                android:id="@+id/f1"></item>
+            <item
+                android:title="Info Page"
+                android:id="@+id/l2"></item>
+            <item
+                android:title="Rating"
+                android:id="@+id/l1"></item>
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Refresh"
+            android:id="@+id/r1"
+            app:showAsAction="always"
+            android:icon="@drawable/ic_baseline_refresh_24"
+            ></item>
+        <item
+            android:title="share App"
+            android:id="@+id/s1"
+            android:icon="@drawable/ic_baseline_share_24"
+            app:showAsAction="always"></item>
+        <item
+            android:title="Help "
+            android:id="@+id/s3"
+            android:icon="@drawable/ic_baseline_help_24"
+            app:showAsAction="always"></item>
+        <item
+            android:title="Log out"
+            android:id="@+id/s4"
+            android:icon="@drawable/ic_baseline_power_settings_new_24"
+            app:showAsAction="always"></item>
+
+    </group>
+
+</menu>
