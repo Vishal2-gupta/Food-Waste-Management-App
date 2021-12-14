@@ -6,6 +6,7 @@ Food Waste Management App
 # XML as Frontend
 # JAVA as Backend
 # SQLite And RoomDataBase for CRUD Opeartion
+# Google API for Maps
 
 # XML
 XML stands for Extensible Markup Language. XML is a markup language much like HTML used to describe data. XML tags are not predefined in XML. We must define our own Tags.
