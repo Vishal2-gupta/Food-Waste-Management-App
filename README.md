@@ -1,11 +1,11 @@
-# Food-Waste-Management-App
+## Food-Waste-Management-App
 Food Waste Management App
 
 
-# Output
+## Output Screenshots
 
-
-![1639495386651](https://user-images.githubusercontent.com/62341045/146028346-9dc0a458-83bf-40c0-a64a-5f2bf76cf084.jpg)
+ <p align ="center">
+<img src="https://user-images.githubusercontent.com/62341045/146028346-9dc0a458-83bf-40c0-a64a-5f2bf76cf084.jpg" width="300" height="500"/>
 
 
 
