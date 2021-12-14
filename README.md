@@ -21,7 +21,7 @@ Room is a persistence library that provides an abstraction layer over the SQLite
 # Components of Room
 The three main components of the room are Entity, Database, and DAO. 
 
-# In this app there were various type of modules available to manage participants, their Score,Quiz Questions.
+# In this app there were various type of modules available to perform CRUD Operation, Getting current location, Giving Rating, Calling using intent, Sharing app to others etc.
 Features ->  Room Database, Navigation Drawer, Rating bar, Alert Dialog , Toast Message, Splash Screen
              Floating Action Button, Drawbles, Styles, CardView, RecyclerView, Google ApI For MAps, Reverse geocoding , Intents
              BroadCastReceiver , AsyncTask, Services
