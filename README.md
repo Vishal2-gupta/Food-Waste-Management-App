@@ -21,6 +21,9 @@ Food Waste Management App
 
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/146029039-98f891c4-9a23-436c-8efd-67881fed4ad0.jpg" width="300" height="500"/>
+  
+ <p align ="center">
+<img src="https://user-images.githubusercontent.com/62341045/146030374-bea91b1b-6c90-4131-83b1-b1cf3de95bb3.jpg" width="300" height="500"/>
 
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/146029532-12dba435-cfc7-49b5-9f50-5718a2602bf7.jpg" width="300" height="500"/>
@@ -42,9 +45,6 @@ Food Waste Management App
    
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/146030081-80e9809d-31a1-4a73-9c43-2192e3422d66.jpg" width="300" height="500"/>
-
- <p align ="center">
-<img src="https://user-images.githubusercontent.com/62341045/146030374-bea91b1b-6c90-4131-83b1-b1cf3de95bb3.jpg" width="300" height="500"/>
    
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/146030563-318896fd-0fec-49cd-9d92-a0a587126551.jpg" width="300" height="500"/>
