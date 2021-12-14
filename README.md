@@ -51,13 +51,16 @@ Food Waste Management App
 
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/146030722-32ab5ea6-74fa-4db7-b4ba-7e6ce6c2e328.jpg" width="300" height="500"/>
-
- <p align ="center">
-<img src="https://user-images.githubusercontent.com/62341045/146030911-ff8cdefa-3aa8-4ae4-baca-be47b83cd26b.jpg" width="300" height="500"/>
-   
+ 
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/146031017-401ff6e4-622f-4f76-b57c-b143c4da5723.jpg" width="300" height="500"/>
      
+ <p align ="center">
+<img src="https://user-images.githubusercontent.com/62341045/146030911-ff8cdefa-3aa8-4ae4-baca-be47b83cd26b.jpg" width="300" height="500"/>
+  
+  <p align ="center">
+<img src="https://user-images.githubusercontent.com/62341045/146036214-43343c13-4769-4240-9ffd-38421d475852.jpg" width="300" height="500"/>
+   
  <p align ="center">
 <img src="https://user-images.githubusercontent.com/62341045/146031068-df295fa6-490c-4165-a3a4-927de1d26df8.jpg" width="300" height="500"/>
      
