@@ -23,8 +23,8 @@ The three main components of the room are Entity, Database, and DAO.
 
 # In this app there were various type of modules available to perform CRUD Operation, Getting current location, Giving Rating, Calling using intent, Sharing app to others etc.
 Features ->  Room Database, Navigation Drawer, Rating bar, Alert Dialog , Toast Message, Splash Screen
-             Floating Action Button, Drawbles, Styles, CardView, RecyclerView, Google ApI For MAps, Reverse geocoding , Intents
-             BroadCastReceiver , AsyncTask, Services
+             Floating Action Button, Drawbles, Styles, CardView, RecyclerView, Google ApI For MAps, Reverse geocoding , Intents ,
+             BroadCastReceiver , AsyncTask, Services , Sharing App to others, MAKE a call using intent etc.
          
 
 
